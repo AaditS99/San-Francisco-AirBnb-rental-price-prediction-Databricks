@@ -1,8 +1,10 @@
 # San-Francisco-AirBnb-rental-price-prediction-Databricks
+## Project Documentation
 
-## Overview
+The detailed analysis and results are available in the following HTML file:
 
-This project analyzes a San Francisco Airbnb rental dataset using Linear Regression on Spark. The goal is to predict listing prices based on various features such as the number of bedrooms, host attributes, and more. The dataset was provided by the [Inside Airbnb project](http://insideairbnb.com/), which offers data and insights about Airbnb's impact on residential communities.
+file:///Users/apple/Downloads/airbnb.html
+
 
 ## Dataset
 
